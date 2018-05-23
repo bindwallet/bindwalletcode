@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:#58595B;}
+	.st5{font-family:'AquaGrotesque';}
+	.st6{font-size:77.7635px;}
+	.st7{opacity:0.26;fill:url(#SVGID_5_);}
+</style>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="347.3579" y1="325.3958" x2="292.7291" y2="236.0495">
+			<stop  offset="0" style="stop-color:#6B5DA8"/>
+			<stop  offset="0.8355" style="stop-color:#397DC1"/>
+			<stop  offset="1" style="stop-color:#2484C6"/>
+		</linearGradient>
+		<polyline class="st0" points="288.2,296.5 350.6,328.1 350.6,262.8 288.2,222.3 		"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="339.9553" y1="521.9101" x2="285.3149" y2="331.6807">
+			<stop  offset="0" style="stop-color:#6B5DA8"/>
+			<stop  offset="1" style="stop-color:#2484C6"/>
+		</linearGradient>
+		<polygon class="st1" points="288.2,328.8 288.2,542.8 350.6,524.1 350.6,357.7 		"/>
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="287.4157" y1="292.6904" x2="228.7158" y2="258.9249">
+			<stop  offset="0" style="stop-color:#6B5DA8"/>
+			<stop  offset="0.8355" style="stop-color:#397DC1"/>
+			<stop  offset="1" style="stop-color:#2484C6"/>
+		</linearGradient>
+		<polyline class="st2" points="288.2,296.5 225.8,328.1 225.8,262.8 288.2,222.3 		"/>
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="295.8284" y1="496.6704" x2="249.4897" y2="412.8518">
+			<stop  offset="0" style="stop-color:#6B5DA8"/>
+			<stop  offset="0.2459" style="stop-color:#695FAA"/>
+			<stop  offset="0.4582" style="stop-color:#6364AD"/>
+			<stop  offset="0.658" style="stop-color:#596DB3"/>
+			<stop  offset="0.849" style="stop-color:#4578BC"/>
+			<stop  offset="1" style="stop-color:#2484C6"/>
+		</linearGradient>
+		<polygon class="st3" points="288.2,328.8 288.2,542.8 225.8,524.1 225.8,357.7 		"/>
+	</g>
+	<text transform="matrix(1.0507 0 0 1 121.4929 662.0645)" class="st4 st5 st6">INVESTA</text>
+	
+		<radialGradient id="SVGID_5_" cx="253.2195" cy="313.1411" r="52.7148" gradientTransform="matrix(2.7777 0 0 0.5152 -415.1698 413.7131)" gradientUnits="userSpaceOnUse">
+		<stop  offset="4.950500e-03" style="stop-color:#010101"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path class="st7" d="M434.6,575.1c0,15-65.6,27.2-146.4,27.2s-146.4-12.2-146.4-27.2s65.6-27.2,146.4-27.2S434.6,560.1,434.6,575.1
+		z"/>
+</g>
+</svg>
